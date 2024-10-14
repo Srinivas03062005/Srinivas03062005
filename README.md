@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinivas Muppidi</h1>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivas03062005&label=Profile%20views&color=0e75b6&style=flat" alt="srinivas03062005" /> </p>
 
 - 🌱 I’m currently learning **Javascript and Java**
