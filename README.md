@@ -32,6 +32,29 @@
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="apache kafka" width="40" height="40"/>
+</a>
+
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/apacheairflow" alt="apache airflow" width="40" height="40"/>
+</a>
+
+<a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/apachespark" alt="apache pyspark" width="40" height="40"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas03062005&show_icons=true&locale=en&layout=compact" alt="srinivas03062005" /></p>
