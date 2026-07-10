@@ -28,44 +28,32 @@
 
 ## ABOUT ME
 
-</div>
+<div align="center">
 
-<table width="100%">
+<table>
 <tr>
-<td width="55%" valign="top">
 
-&nbsp;&nbsp;&nbsp; Final Year B.Tech Student — Computer Science
-
-&nbsp;&nbsp;&nbsp; Data Engineering Enthusiast
-
-&nbsp;&nbsp;&nbsp; Building scalable, real-time data pipelines
-
-&nbsp;&nbsp;&nbsp; Full pipeline: Ingest → Transform → Warehouse.
-
-&nbsp;&nbsp;&nbsp; Open Source Learner
-
+<td align="left" valign="top" style="white-space: nowrap; padding-right:40px;">
+Final Year B.Tech Student — Computer Science<br><br>
+Data Engineering Enthusiast<br><br>
+Building scalable, real-time data pipelines<br><br>
+Full pipeline: Ingest → Transform → Warehouse<br><br>
+Open Source Learner
 </td>
-<td width="45%" valign="top">
 
-**Current Focus**
-
-<img src="https://img.shields.io/badge/Apache_Spark-0A1128?style=flat-square&logo=apachespark&logoColor=E25A1C"/><br/>
-<img src="https://img.shields.io/badge/Kafka-0A1128?style=flat-square&logo=apachekafka&logoColor=E8ECF4"/><br/>
-<img src="https://img.shields.io/badge/Airflow-0A1128?style=flat-square&logo=apacheairflow&logoColor=017CEE"/><br/>
-<img src="https://img.shields.io/badge/Snowflake-0A1128?style=flat-square&logo=snowflake&logoColor=29B5E8"/><br/>
+<td align="left" valign="top">
+<b>Current Focus</b><br><br>
+<img src="https://img.shields.io/badge/Apache_Spark-0A1128?style=flat-square&logo=apachespark&logoColor=E25A1C"/><br><br>
+<img src="https://img.shields.io/badge/Kafka-0A1128?style=flat-square&logo=apachekafka&logoColor=E8ECF4"/><br><br>
+<img src="https://img.shields.io/badge/Airflow-0A1128?style=flat-square&logo=apacheairflow&logoColor=017CEE"/><br><br>
+<img src="https://img.shields.io/badge/Snowflake-0A1128?style=flat-square&logo=snowflake&logoColor=29B5E8"/><br><br>
 <img src="https://img.shields.io/badge/AWS-0A1128?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
-
 </td>
 </tr>
 </table>
+</div>
 
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:050816,50:8B7CF6,100:050816" width="100%"/>
-
-<br/>
-
-<div align="center">
 
 ## TECH STACK
 
@@ -119,112 +107,7 @@
 
 <div align="center">
 
-## FEATURED PROJECTS
 
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-<div align="center">
-
-### Real-Time ETL Pipeline
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Kafka-050816?style=flat-square&logo=apachekafka&logoColor=E8ECF4"/>
-<img src="https://img.shields.io/badge/PySpark-050816?style=flat-square&logo=apachespark&logoColor=E25A1C"/>
-<img src="https://img.shields.io/badge/Airflow-050816?style=flat-square&logo=apacheairflow&logoColor=017CEE"/>
-<img src="https://img.shields.io/badge/AWS-050816?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
-
-</div>
-
-<br/>
-
-Streams live order data through Kafka into a PySpark processing layer, orchestrated by Airflow and deployed on AWS EC2 with S3 and MySQL.
-
-<div align="center">
-
-<br/>
-
-<img src="https://img.shields.io/badge/View_Project-0A1128?style=for-the-badge&labelColor=050816"/>
-
-</div>
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-
-### Weather ETL Pipeline
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Weather_API-050816?style=flat-square&labelColor=050816"/>
-<img src="https://img.shields.io/badge/Pandas-050816?style=flat-square&logo=pandas&logoColor=6EE7F9"/>
-<img src="https://img.shields.io/badge/Airflow-050816?style=flat-square&logo=apacheairflow&logoColor=017CEE"/>
-
-</div>
-
-<br/>
-
-Automated pipeline that extracts, transforms, and loads live weather data on a scheduled Airflow workflow.
-
-<div align="center">
-
-<br/>
-
-<img src="https://img.shields.io/badge/View_Project-0A1128?style=for-the-badge&labelColor=050816"/>
-
-</div>
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-
-### Sales Data & BI Pipeline
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SQL-050816?style=flat-square&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Python-050816?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Power_BI-050816?style=flat-square&logo=powerbi&logoColor=F2C811"/>
-
-</div>
-
-<br/>
-
-Cleans and structures raw sales data into a warehouse-ready format, feeding a live Power BI dashboard for business reporting.
-
-<div align="center">
-
-<br/>
-
-<img src="https://img.shields.io/badge/View_Project-0A1128?style=for-the-badge&labelColor=050816"/>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:050816,50:8B7CF6,100:050816" width="100%"/>
-
-<br/>
-
-<div align="center">
 
 ## GITHUB ANALYTICS
 
