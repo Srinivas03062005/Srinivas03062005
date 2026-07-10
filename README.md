@@ -40,7 +40,7 @@
 
 &nbsp;&nbsp;&nbsp; Building scalable, real-time data pipelines
 
-&nbsp;&nbsp;&nbsp; Comfortable across the full pipeline — ingest, transform, orchestrate, warehouse
+&nbsp;&nbsp;&nbsp; Full pipeline: Ingest → Transform → Warehouse.
 
 &nbsp;&nbsp;&nbsp; Open Source Learner
 
