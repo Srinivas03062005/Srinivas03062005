@@ -111,12 +111,6 @@ Open Source Learner
 
 ## GITHUB ANALYTICS
 
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=srinivas03062005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=6EE7F9&icon_color=8B7CF6&text_color=E8ECF4&cache_seconds=86400"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivas03062005&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=6EE7F9&text_color=E8ECF4&cache_seconds=86400"/>
-
-<br/>
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=srinivas03062005&theme=tokyonight&hide_border=true&background=050816&stroke=8B7CF6&ring=6EE7F9&fire=6EE7F9&currStreakLabel=6EE7F9"/>
 
