@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Javascript and Java**
 
-- 💬 Ask me about **Data Structures..**
+- 💬 Ask me about **Data Structures..** 
 
 - 💎 How to reach me **mppdsrinivas@gmail.com**
 
