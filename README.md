@@ -4,7 +4,7 @@
 
 <br/> 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=6EE7F9&center=true&vCenter=true&width=700&lines=Designing+Real-Time+Data+Pipelines;Apache+Spark+%C2%B7+Kafka+%C2%B7+Airflow;Building+Cloud-Native+ETL+Systems;Python+%C2%B7+AWS+%C2%B7+Snowflake"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=6EE7F9&center=true&vCenter=true&width=700&lines=Designing+Real-Time+Data+Pipelines;Apache+Spark+%C2%B7+Kafka+%C2%B7+Airflow;Building+Cloud-Native+ETL+Systems;Python+%C2%B7+AWS+%C2%B7+Snowflake"/> 
 
 <br/><br/>
 
