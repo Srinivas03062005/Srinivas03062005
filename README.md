@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,50:0A1128,100:050816&text=SRINIVAS%20MUPPIDI&fontColor=E8ECF4&fontSize=52&fontAlignY=36&desc=DATA%20ENGINEER&descAlignY=54&descSize=20&animation=fadeIn"/>
 
+
 <br/> 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=6EE7F9&center=true&vCenter=true&width=700&lines=Designing+Real-Time+Data+Pipelines;Apache+Spark+%C2%B7+Kafka+%C2%B7+Airflow;Building+Cloud-Native+ETL+Systems;Python+%C2%B7+AWS+%C2%B7+Snowflake"/> 
